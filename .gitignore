@@ -1,1 +1,18 @@
-\.venv
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build output
+*.spec
+dist/
+build/
+*.exe
+*.dll
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+
